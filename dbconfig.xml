@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+  <architecture>MySQL</architecture>
+  <version>8.0.2</version>
+  <host>127.0.0.1</host>
+  <port>3306</port>
+  <user>hr</user>
+  <password>hr</password>
+  <name>hrdb</name>
+</database>
