@@ -26,8 +26,8 @@ This is the architecture layer which deals with the transfer of data between ser
 Output is the CLI Menu which is used to perform specific operations and askes for desired inputs according to the specific operational needs.
 
 ### Language
-**Programming Language : Python 3.8.5**
-**Version Control : Git**
+* **Programming Language : Python 3.8.5**
+* **Version Control : Git**
 
 ### Author
 _Sarthak Kale_
