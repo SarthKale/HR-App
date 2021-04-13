@@ -1,5 +1,9 @@
 from hr import Employee, HRDLHandler, DataLayerError
 
+"""
+It is used to Delete a single Employee data from the DataBase
+"""
+
 try:
     emp_id = int(input("Enter employee ID : "))
     HRDLHandler.delete_employee(emp_id)

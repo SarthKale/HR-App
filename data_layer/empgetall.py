@@ -1,5 +1,9 @@
 from hr import Designation, HRDLHandler, DataLayerError
 
+"""
+It is used to fetch all the Employee data from the DataBase
+"""
+
 try:
     employees = HRDLHandler.get_employees()
     for employee in employees:
